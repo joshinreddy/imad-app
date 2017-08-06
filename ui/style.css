@@ -25,5 +25,6 @@ body {
     margin: 0 auto;
     color: blue;
     background-color: powderblue;
-    padding: 30px
+    padding: 30px;
+    border: 1px solid gold;
 }
