@@ -19,4 +19,13 @@ body {
 .img-medium {
     height: 200px;
 }
-
+.docker
+{
+    max-width: 80px;
+    margin: 0 auto;
+    color: blue;
+    background-color: powderblue;
+    font-family: verdana;
+    font-size: 100%;
+    border: 1px solid green;
+}
