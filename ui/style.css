@@ -21,7 +21,7 @@ body {
 }
 .docker
 {
-    max-width: 80px;
+    max-width: 60px;
     margin: 0 auto;
     color: blue;
     background-color: powderblue;
